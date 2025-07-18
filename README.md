@@ -1,8 +1,49 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 📱 React Native Contacts App
+
+A **cross-platform mobile application** built with [React Native](https://reactnative.dev), using **SQLite** for local database storage. The app allows users to **upload their own SQLite database** and perform **real-time, dynamic search** on the contact data.
+
+> ⚡ Seamlessly search through your own contact datasets — lightweight, offline, and fast.
+
+---
+
+## 🚀 Features
+
+- 📂 Upload custom SQLite database files
+- 🔍 Dynamic search bar with real-time filtering
+- 🧩 Auto-detects and renders based on database schema
+- 🟢 Built using native React Native CLI (no Expo)
+- 📱 Supports both **Android** and **iOS**
+
+## 🧰 Tech Stack
+
+**Frontend / Mobile Framework**
+- [React Native](https://reactnative.dev) — cross-platform mobile app framework
+
+**Database**
+- [SQLite](https://www.sqlite.org/index.html) — embedded local database
+- [react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage) — SQLite bindings for React Native
+
+**Development Tools**
+- [React Native CLI](https://github.com/react-native-community/cli) — native CLI to bootstrap and manage the app
+- [Metro Bundler](https://facebook.github.io/metro/) — JavaScript bundler for React Native
+
+**Optional Utilities**
+- [VS Code](https://code.visualstudio.com/) — recommended IDE
+- [Android Studio / Xcode](https://reactnative.dev/docs/environment-setup) — native build tools for Android and iOS
+
+
+## 🎥 Demo Video
+https://github.com/user-attachments/assets/5ef075ef-a390-4dd8-b997-f079a79bd650
 
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/sud3801/ContactsAppCLI.git
+cd ContactsAppCLI
 
 ## Step 1: Start Metro
 
