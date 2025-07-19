@@ -225,9 +225,6 @@ To learn more about React Native and the technologies used in this app:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Developer
 
